@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjk13637110731
-- 👀 I’m interested in Fortran,C language,Python and so on.
+- 👀 I’m interested in Fortran,C/C++ language,Python and so on.
 - 🌱 I’m currently learning C++, Fortran and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
