@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjk13637110731
+- 👋 Hi, I’m @TangJi
 - 👀 I’m interested in Fortran,C/C++,Java,Python,JavaScript and so on.
 - 🌱 I’m currently learning C++, Fortran, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
